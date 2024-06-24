@@ -14,6 +14,7 @@ PASSWORD = os.environ.get("PASSWORD")
 
 exercise_endpoint = os.environ.get("EXERCISE_ENDPOINT")
 
+print("Shane rules")
 
 headers = {
     "x-app-id": APP_ID,
